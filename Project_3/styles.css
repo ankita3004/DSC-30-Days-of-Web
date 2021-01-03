@@ -1,0 +1,53 @@
+body{
+  background-color: white;
+  font-family: 'Merriweather', serif;
+  }
+  
+img{
+  border: 6px solid #7f6fed;
+  border-radius: 90%;
+  width:500px;
+}
+.first{
+  text-align: center;
+  background-image: url(blue.jpg);
+  height: 500px;
+  color: #857bc9;
+  padding: 3% 3% 5% 3%;
+}
+h1{
+  font-size: 4rem;
+  text-shadow: 2px 2px white;
+  text-align: center;
+}
+h2
+{
+  font-size: 2rem;
+  text-shadow: 3px 3px #5740ff;
+  text-align: center;
+  padding-bottom: 2%;
+}
+.bold{
+  font-weight: bold;
+}
+.form{
+  background-color: #d9d4fc;
+  padding: 2%;
+  color:#000542;
+}
+.end{
+  color:#000542;
+  padding:3%;
+  background-color: #d9d4fc;
+}
+.video{
+  padding: 2%;
+  color: #000542;
+  text-align: center;
+}
+footer{
+  text-align: center;
+}
+.row{
+  padding:0 10% 0 25%;
+}
